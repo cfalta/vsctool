@@ -1,0 +1,1 @@
+. "$PSScriptRoot/vsctool.ps1"
